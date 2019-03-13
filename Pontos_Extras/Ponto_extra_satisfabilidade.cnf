@@ -1,0 +1,7 @@
+
+c Bruno Rodrigues 13/10/19
+c Ponto extra
+c (X v X v Y) ^ (¬X v ¬Y v ¬Y) ^ (¬X v Y v Y)
+c simplificando temos Y v ¬X
+p cnf 2 1
+1 -2 0
